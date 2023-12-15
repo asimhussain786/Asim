@@ -1,1 +1,2 @@
-This is a tesy file for branching
+This is a tesy file for branching.
+new update in feature by new user 
